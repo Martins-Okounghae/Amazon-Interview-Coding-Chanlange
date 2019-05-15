@@ -22,7 +22,7 @@ class solutionsFirtChar(object):
 
 check = solutionsFirtChar()
 
-verifycheck = check.firstChar("aaamttyy")
+verifycheck = check.firstChar("martins")
 
 print(verifycheck)
 
